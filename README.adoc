@@ -1,0 +1,4 @@
+= lemming-in-chief
+AHK script for farming Fieldrunners achievement
+
+TBD
